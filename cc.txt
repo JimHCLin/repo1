@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git checkout -b hotfixright
 sss
+=======
+hotfix
+>>>>>>> hotfix
