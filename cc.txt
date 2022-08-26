@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-git checkout -b hotfixright
-sss
-=======
+test1
 hotfix
->>>>>>> hotfix
+
+
